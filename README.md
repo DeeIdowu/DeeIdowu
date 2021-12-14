@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeeIdowu
 - 👀 I’m interested in Full Stack Development and innovation
-- 🌱 I’m currently learning the intrincacies of mobile applications, Python - Automation and Machine Learning
+- 🌱 I’m currently learning the intrincacies of mobile applications via React Native as well as use of Python - Automation and Machine Learning.
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me via Linkedin: https://linkedin.com/in/dee-idowu
 
